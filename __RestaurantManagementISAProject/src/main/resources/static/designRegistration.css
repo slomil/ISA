@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+
+body{
+		
+		background-image:url('rsz_cutlery.png');
+		background-repeat: no-repeat ;
+		background-attachment: fixed;
+		background-position:570px 20px;	
+}
+
+
+
+.polje1{
+	
+		margin-top:250px;
+		margin-left:570px;
+		position: fixed;
+	
+}
+
+.polje2{
+	
+		margin-top:430px;
+		margin-left:570px;
+		position: fixed;
+			
+}

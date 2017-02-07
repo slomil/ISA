@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+
+body{
+	
+		background-image:url('rsz_2menu2.jpg');
+		background-repeat: no-repeat ;
+		background-attachment: fixed;
+		background-position:870px 20px;
+	
+}
+
+.naslov{
+	
+		
+		margin-top:70px;
+		margin-left:180px;
+		position: fixed;
+}
+
+
+.forma{
+	
+		margin-top:100px;
+		margin-left:150px;
+		position: fixed;
+		
+}

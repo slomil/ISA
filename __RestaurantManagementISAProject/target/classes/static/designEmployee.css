@@ -1,0 +1,48 @@
+@CHARSET "UTF-8";
+
+.naslov{
+	
+		margin-top:20px;
+		margin-left:50px;
+		position: fixed;
+	
+}
+
+.selekcija{
+	
+		margin-top:40px;
+		margin-left:80px;
+		position:fixed;
+		
+}
+
+.employee{
+	
+		margin-top:60px;
+		margin-left:50px;
+		position:fixed;
+		
+}
+
+.poruka{
+	
+		margin-top:80px;
+		margin-left:50px;
+		position:fixed;
+		
+}
+
+.kalendar{
+	
+		margin-top:20px;
+		margin-left:770px;
+		position: fixed;
+}
+
+table.tabela td{
+		
+		font-size:13px; 
+		vertical-align:top;
+		
+}
+
